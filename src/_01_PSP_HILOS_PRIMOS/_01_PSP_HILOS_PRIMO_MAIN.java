@@ -14,7 +14,7 @@ public class _01_PSP_HILOS_PRIMO_MAIN {
 
 		for (int i = 0; i < 3; i++) {
 			System.out.print("Ingrese el numero " + (i + 1) + " : ");
-			num[i] = sc.nextInt();
+			num[i] = sc.nextLong();
 		}
 
 		for (int i = 0; i < 3; i++) {
